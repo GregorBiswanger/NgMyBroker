@@ -8,10 +8,10 @@ https://gregorbiswanger.github.io/MyBroker/
 
 ## Preperations for the start
 The following is required for the project:    
-- [Node.js](http://www.nodejs.org "www.nodejs.org"){:target="_blank"} (runs on Windows, Mac and Linux)  
+- [Node.js](http://www.nodejs.org "www.nodejs.org") (runs on Windows, Mac and Linux)  
 - Angular CLI  
   type `npm install @angular/cli -g` in the terminal   
-- [Visual Studio Code](http://code.visualstudio.com "http://code.visualstudio.com"){:target="_blank"} (runs on Windows, Mac and Linux)  
+- [Visual Studio Code](http://code.visualstudio.com "http://code.visualstudio.com") (runs on Windows, Mac and Linux)  
   
 There has already been deposited a complete exercise project on GitHub for you:    
   
