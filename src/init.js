@@ -1,7 +1,4 @@
-(function ($) {
-    $(function () {
-
-        $('.button-collapse').sideNav();
-
-    });
-})(jQuery);
+document.addEventListener('DOMContentLoaded', function() {
+    var elements = document.querySelectorAll('.sidenav');
+    var instances = M.Sidenav.init(elements);
+});
