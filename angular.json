@@ -30,8 +30,7 @@
             "scripts": [
               "./node_modules/materialize-css/dist/js/materialize.js",
               "src/init.js"
-            ],
-            "es5BrowserSupport": true
+            ]
           },
           "configurations": {
             "production": {
