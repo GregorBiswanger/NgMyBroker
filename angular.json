@@ -70,18 +70,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "NgMyBroker:build"
+            "buildTarget": "NgMyBroker:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "NgMyBroker:build:production"
+              "buildTarget": "NgMyBroker:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "NgMyBroker:build"
+            "buildTarget": "NgMyBroker:build"
           }
         },
         "lint": {
